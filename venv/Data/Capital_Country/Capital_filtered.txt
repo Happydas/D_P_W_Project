@@ -1,0 +1,292 @@
+Afghanistan Kabul
+
+Algeria Algiers
+
+Angola Luanda
+
+Argentina Buenos_Aires
+
+Armenia Yerevan
+
+Australia Canberra
+
+Austria Vienna
+
+Azerbaijan Baku
+
+Bahrain Manama
+
+Bangladesh Dhaka
+
+Barbados Bridgetown
+
+Belarus Minsk
+
+Belize Belmopan
+
+Benin Porto_Novo
+
+Bolivia Sucre
+
+Brazil Brasília
+
+Bulgaria Sofia
+
+Burkina_Faso Ouagadougou
+
+Burundi Bujumbura
+
+Cambodia Phnom_Penh
+
+Cameroon Yaoundé
+
+Canada Ottawa
+
+Chad N'Djamena
+
+Chile Santiago
+
+China Beijing
+
+Colombia Bogotá
+
+Croatia Zagreb
+
+Cuba Havana
+
+Cyprus Nicosia
+
+Czech_Republic Prague
+
+Denmark Copenhagen
+
+Dominica Roseau
+
+Dominican_Republic Santo_Domingo
+
+East_Timor Dili
+
+Ecuador Quito
+
+Egypt Cairo
+
+El_Salvador San_Salvador
+
+Equatorial_Guinea Malabo
+
+Eritrea Asmara
+
+Estonia Tallinn
+
+Ethiopia Addis_Ababa
+
+Fiji Suva
+
+France Paris
+
+Gabon Libreville
+
+Germany Berlin
+
+Ghana Accra
+
+Greece Athens
+
+Guinea Conakry
+
+Guinea_Bissau Bissau
+
+Haiti Port_au_Prince
+
+Honduras Tegucigalpa
+
+Hungary Budapest
+
+Indonesia Jakarta
+
+Iran Tehran
+
+Iraq Baghdad
+
+Israel Jerusalem
+
+Italy Rome
+
+Ivory_Coast Abidjan
+
+Ivory_Coast Yamoussoukro
+
+Japan Tokyo
+
+Jordan Amman
+
+Kazakhstan Astana
+
+Kenya Nairobi
+
+Kosovo Pristina
+
+Kyrgyzstan Bishkek
+
+Laos Vientiane
+
+Latvia Riga
+
+Lebanon Beirut
+
+Lesotho Maseru
+
+Liberia Monrovia
+
+Libya Tripoli
+
+Lithuania Vilnius
+
+Madagascar Antananarivo
+
+Malawi Lilongwe
+
+Malaysia Kuala_Lumpur
+
+Malaysia Putrajaya
+
+Mali Bamako
+
+Malta Valletta
+
+Mauritania Nouakchott
+
+Mongolia Ulaanbaatar
+
+Montenegro Podgorica
+
+Morocco Rabat
+
+Mozambique Maputo
+
+Myanmar Naypyidaw
+
+Namibia Windhoek
+
+Nepal Kathmandu
+
+Netherlands Amsterdam
+
+New_Zealand Wellington
+
+Nicaragua Managua
+
+Niger Niamey
+
+Nigeria Abuja
+
+Niue Alofi
+
+North_Korea Pyongyang
+
+Norway Oslo
+
+Pakistan Islamabad
+
+Paraguay Asunción
+
+Peru Lima
+
+Philippines Manila
+
+Poland Warsaw
+
+Qatar Doha
+
+Romania Bucharest
+
+Russia Moscow
+
+Rwanda Kigali
+
+Saint_Lucia Castries
+
+Saudi_Arabia Riyadh
+
+Senegal Dakar
+
+Serbia Belgrade
+
+Sierra_Leone Freetown
+
+Slovakia Bratislava
+
+Slovenia Ljubljana
+
+Solomon_Islands Honiara
+
+Somalia Mogadishu
+
+Somaliland Hargeisa
+
+South_Africa Cape_Town
+
+South_Africa Pretoria
+
+South_Africa Bloemfontein
+
+South_Korea Seoul
+
+Spain Madrid
+
+Sri_Lanka Colombo
+
+Sudan Khartoum
+
+Suriname Paramaribo
+
+Swaziland Mbabane
+
+Swaziland Lobamba
+
+Sweden Stockholm
+
+Switzerland Bern
+
+Syria Damascus
+
+Taiwan Taipei
+
+Tajikistan Dushanbe
+
+Tanzania Dodoma
+
+Thailand Bangkok
+
+Togo Lomé
+
+Tunisia Tunis
+
+Turkey Ankara
+
+Turkmenistan Ashgabat
+
+Ukraine Kiev
+
+United_Arab_Emirates Abu_Dhabi
+
+United_Kingdom London
+
+Uruguay Montevideo
+
+Uzbekistan Tashkent
+
+Vanuatu Port_Vila
+
+Venezuela Caracas
+
+Vietnam Hanoi
+
+Yemen Aden
+
+Yemen Sana'a
+
+Zambia Lusaka
+
+Zimbabwe Harare
+

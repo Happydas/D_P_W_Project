@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4ab24a6-fd60-42e4-bf17-7ad898742481" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Practise_Function.coverage" NAME="Practise_Function Coverage Results" MODIFIED="1527960399273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Country_Currency_Filtered.coverage" NAME="Country_Currency_Filtered Coverage Results" MODIFIED="1524478505598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Country_Currency_Data.coverage" NAME="Country_Currency_Data Coverage Results" MODIFIED="1524562290044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Main_Word2Vec_Capital_Average.coverage" NAME="Main_Word2Vec_Capital_Average Coverage Results" MODIFIED="1523453450302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Main_Capital.coverage" NAME="Main_Capital Coverage Results" MODIFIED="1526568981907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Main_Word2Vec_Capital_Average_for5.coverage" NAME="Main_Word2Vec_Capital_Average_for5 Coverage Results" MODIFIED="1523456583968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Company_Headquarter_Filtered.coverage" NAME="Company_Headquarter_Filtered Coverage Results" MODIFIED="1528368296374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Preprocessing" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$DBPedia_Capital_Test.coverage" NAME="DBPedia_Capital_Test Coverage Results" MODIFIED="1520610795582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Practise_2.coverage" NAME="Practise_2 Coverage Results" MODIFIED="1525778334903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Capital_Country__1_.coverage" NAME="Capital_Country (1) Coverage Results" MODIFIED="1519247204221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Practise.coverage" NAME="Practise Coverage Results" MODIFIED="1528371768287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Preprocessing" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Main_Word2Vec_Capital_Test.coverage" NAME="Main_Word2Vec_Capital_Test Coverage Results" MODIFIED="1524046823792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Main_Word2Vec_Capital_2.coverage" NAME="Main_Word2Vec_Capital_2 Coverage Results" MODIFIED="1523365405329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Main_Word2Vec_Capital_Test_Rest.coverage" NAME="Main_Word2Vec_Capital_Test_Rest Coverage Results" MODIFIED="1523462862528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Company_Founder.coverage" NAME="Company_Founder Coverage Results" MODIFIED="1527605060970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/SPARQL" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Practise_7.coverage" NAME="Practise_7 Coverage Results" MODIFIED="1526642403468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Main_Currency_Country.coverage" NAME="Main_Currency_Country Coverage Results" MODIFIED="1527975620418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Relation_Prediction" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Company_Founder_Filtered.coverage" NAME="Company_Founder_Filtered Coverage Results" MODIFIED="1527606514926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Preprocessing" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Company_Founder_Before_Filtered_2.coverage" NAME="Company_Founder_Before_Filtered_2 Coverage Results" MODIFIED="1527605708487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Preprocessing" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Word2Vec_Practise.coverage" NAME="Word2Vec_Practise Coverage Results" MODIFIED="1524827114928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Unnecessary" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Company_Train_Test.coverage" NAME="Company_Train_Test Coverage Results" MODIFIED="1527612322847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Preprocessing" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Currency_Train_Test.coverage" NAME="Currency_Train_Test Coverage Results" MODIFIED="1524478766998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Spouse.coverage" NAME="Spouse Coverage Results" MODIFIED="1525859345886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/SPARQL" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Main_Country_2.coverage" NAME="Main_Country_2 Coverage Results" MODIFIED="1524140020912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Currency_Train_Test.coverage" NAME="Currency_Train_Test Coverage Results" MODIFIED="1524144319144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Country_Currency_Clean.coverage" NAME="Country_Currency_Clean Coverage Results" MODIFIED="1524144156526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Capital_Country_Filtered.coverage" NAME="Capital_Country_Filtered Coverage Results" MODIFIED="1519248044556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Main_Spouse.coverage" NAME="Main_Spouse Coverage Results" MODIFIED="1525859651866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$DBPedia_Data.coverage" NAME="DBPedia_Data Coverage Results" MODIFIED="1523628136529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Person_Party_Before_Filtered__1_.coverage" NAME="Person_Party_Before_Filtered (1) Coverage Results" MODIFIED="1524652224963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Main_Currency_Random.coverage" NAME="Main_Currency_Random Coverage Results" MODIFIED="1523627772903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Capital_Word2Vec.coverage" NAME="Capital_Word2Vec Coverage Results" MODIFIED="1520588869669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Country_Currency_Data_2.coverage" NAME="Country_Currency_Data_2 Coverage Results" MODIFIED="1524573779924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Spouse_Clean.coverage" NAME="Spouse_Clean Coverage Results" MODIFIED="1519249501640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Exercise.coverage" NAME="Exercise Coverage Results" MODIFIED="1520609724518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Company_Founder_Clean.coverage" NAME="Company_Founder_Clean Coverage Results" MODIFIED="1527605368289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/SPARQL" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Accuracy_Company_Headquarter.coverage" NAME="Accuracy_Company_Headquarter Coverage Results" MODIFIED="1528281106771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Accuracy_Visualize" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Spouse_Train_Test.coverage" NAME="Spouse_Train_Test Coverage Results" MODIFIED="1525859608280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Spouse_Clean.coverage" NAME="Spouse_Clean Coverage Results" MODIFIED="1525859375822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/SPARQL" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Accuracy_Person.coverage" NAME="Accuracy_Person Coverage Results" MODIFIED="1528006889704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Accuracy_Visualize" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Practise_4.coverage" NAME="Practise_4 Coverage Results" MODIFIED="1526029624111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Spouse_Filtered.coverage" NAME="Spouse_Filtered Coverage Results" MODIFIED="1525859526895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Person_Party3.coverage" NAME="Person_Party3 Coverage Results" MODIFIED="1519306383634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Spouse_Filtered.coverage" NAME="Spouse_Filtered Coverage Results" MODIFIED="1519249626376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Capital_Country_Clean.coverage" NAME="Capital_Country_Clean Coverage Results" MODIFIED="1524047085945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Word2Vec_capital_2.coverage" NAME="Word2Vec_capital_2 Coverage Results" MODIFIED="1524153906473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Country_Currency.coverage" NAME="Country_Currency Coverage Results" MODIFIED="1524144143921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Person_Party_Filtered.coverage" NAME="Person_Party_Filtered Coverage Results" MODIFIED="1524652515172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$DBPedia_Word2Vec.coverage" NAME="DBPedia_Word2Vec Coverage Results" MODIFIED="1520347710252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Person_Party_Before_Filtered.coverage" NAME="Person_Party_Before_Filtered Coverage Results" MODIFIED="1527855466660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Preprocessing" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Person_Party_Before_Filtered_2.coverage" NAME="Person_Party_Before_Filtered_2 Coverage Results" MODIFIED="1524652078267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/SPARQL" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Country_Currency_Clean.coverage" NAME="Country_Currency_Clean Coverage Results" MODIFIED="1524478042459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/SPARQL" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Company_Founder_Before_Filtered.coverage" NAME="Company_Founder_Before_Filtered Coverage Results" MODIFIED="1527605573650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Preprocessing" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Main_Currency_5.coverage" NAME="Main_Currency_5 Coverage Results" MODIFIED="1523627778043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Capital_Country.coverage" NAME="Capital_Country Coverage Results" MODIFIED="1523877658626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Practise.coverage" NAME="Practise Coverage Results" MODIFIED="1524565671022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Country_Currency.coverage" NAME="Country_Currency Coverage Results" MODIFIED="1524477975654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/SPARQL" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Main_Currency.coverage" NAME="Main_Currency Coverage Results" MODIFIED="1526641925547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Main_Country_Capital.coverage" NAME="Main_Country_Capital Coverage Results" MODIFIED="1524226795689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Practise.coverage" NAME="Practise Coverage Results" MODIFIED="1523458553307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Country_Capital.coverage" NAME="Country_Capital Coverage Results" MODIFIED="1526551105106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Practise_5.coverage" NAME="Practise_5 Coverage Results" MODIFIED="1526484685538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Person_Party_Before_Filtered.coverage" NAME="Person_Party_Before_Filtered Coverage Results" MODIFIED="1524652206664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/SPARQL" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Word2Vec.coverage" NAME="Word2Vec Coverage Results" MODIFIED="1523463660902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Spouse.coverage" NAME="Spouse Coverage Results" MODIFIED="1519249363568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Person_Party2.coverage" NAME="Person_Party2 Coverage Results" MODIFIED="1519301222687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Sum.coverage" NAME="Sum Coverage Results" MODIFIED="1523456243223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Country_Currency_Filtered.coverage" NAME="Country_Currency_Filtered Coverage Results" MODIFIED="1524144197164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Main_Currency_Country.coverage" NAME="Main_Currency_Country Coverage Results" MODIFIED="1526645253877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Main_Country.coverage" NAME="Main_Country Coverage Results" MODIFIED="1524131318272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Word2Vec.coverage" NAME="Word2Vec Coverage Results" MODIFIED="1524569090866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Unnecessary" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Main_Currency.coverage" NAME="Main_Currency Coverage Results" MODIFIED="1524146130348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Main_Company_Headquarter.coverage" NAME="Main_Company_Headquarter Coverage Results" MODIFIED="1527959452684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Relation_Prediction" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Accuracy_Spouse.coverage" NAME="Accuracy_Spouse Coverage Results" MODIFIED="1526660742834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Accuracy_Visualize" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Main_Word2Vec_Capital_Test_5.coverage" NAME="Main_Word2Vec_Capital_Test_5 Coverage Results" MODIFIED="1523455629524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Person_Party_Before_Filtered_2.coverage" NAME="Person_Party_Before_Filtered_2 Coverage Results" MODIFIED="1527674539274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Preprocessing" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Practise_6.coverage" NAME="Practise_6 Coverage Results" MODIFIED="1526485158459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Person_Party_Train_Test.coverage" NAME="Person_Party_Train_Test Coverage Results" MODIFIED="1524652854848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Spouse_Before_Filtered_2.coverage" NAME="Spouse_Before_Filtered_2 Coverage Results" MODIFIED="1525859491077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Spouse_Before_Filtered.coverage" NAME="Spouse_Before_Filtered Coverage Results" MODIFIED="1525859421842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Accuracy_Currency.coverage" NAME="Accuracy_Currency Coverage Results" MODIFIED="1528005872355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Accuracy_Visualize" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Main__Capital_Practise.coverage" NAME="Main _Capital_Practise Coverage Results" MODIFIED="1524232998071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Main_Word2Vec_Capital_Random.coverage" NAME="Main_Word2Vec_Capital_Random Coverage Results" MODIFIED="1523462856264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Person_Party4.coverage" NAME="Person_Party4 Coverage Results" MODIFIED="1519308255104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Append.coverage" NAME="Append Coverage Results" MODIFIED="1523445611772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Word2Vec_Capital.coverage" NAME="Word2Vec_Capital Coverage Results" MODIFIED="1523623655230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Main_Word2Vec_Capital_Average_Rest.coverage" NAME="Main_Word2Vec_Capital_Average_Rest Coverage Results" MODIFIED="1523458621925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Accuracy_Average.coverage" NAME="Accuracy_Average Coverage Results" MODIFIED="1528007689393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Accuracy_Visualize" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Main_Person_Party.coverage" NAME="Main_Person_Party Coverage Results" MODIFIED="1526031004710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Main_Country_Currency.coverage" NAME="Main_Country_Currency Coverage Results" MODIFIED="1526483151081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Word2Vec_Practise.coverage" NAME="Word2Vec_Practise Coverage Results" MODIFIED="1520259411473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Person_Party_Before_Filtered.coverage" NAME="Person_Party_Before_Filtered Coverage Results" MODIFIED="1519509329777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Person_Party_Before_Filtered_2__1_.coverage" NAME="Person_Party_Before_Filtered_2 (1) Coverage Results" MODIFIED="1524652258020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Main_Company_Founder.coverage" NAME="Main_Company_Founder Coverage Results" MODIFIED="1527612752843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Relation_Prediction" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Practise_2.coverage" NAME="Practise_2 Coverage Results" MODIFIED="1527757406897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Accuracy_Visualize" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Person_Party_Before_Filtered2.coverage" NAME="Person_Party_Before_Filtered2 Coverage Results" MODIFIED="1520352286209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Currency_Data.coverage" NAME="Currency_Data Coverage Results" MODIFIED="1524573265698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Country_2.coverage" NAME="Country_2 Coverage Results" MODIFIED="1527834562548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Relation_Prediction" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Company_Headquarter.coverage" NAME="Company_Headquarter Coverage Results" MODIFIED="1528203078529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/SPARQL" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Person_Party_Filtered.coverage" NAME="Person_Party_Filtered Coverage Results" MODIFIED="1519308436173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Main_Country_Currency_2.coverage" NAME="Main_Country_Currency_2 Coverage Results" MODIFIED="1525700195549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Country.coverage" NAME="Country Coverage Results" MODIFIED="1527763791709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Relation_Prediction" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Main_Word2Vec_Capital.coverage" NAME="Main_Word2Vec_Capital Coverage Results" MODIFIED="1524063634988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Capital_Country.coverage" NAME="Capital_Country Coverage Results" MODIFIED="1526646778028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Practise_8.coverage" NAME="Practise_8 Coverage Results" MODIFIED="1526643749163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Person_Party.coverage" NAME="Person_Party Coverage Results" MODIFIED="1519300614810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/DBpedia_Relation_Prediction$Accuracy_Capital.coverage" NAME="Accuracy_Capital Coverage Results" MODIFIED="1527776122945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Accuracy_Visualize" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Main_Currency_Final.coverage" NAME="Main_Currency_Final Coverage Results" MODIFIED="1525694629926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Main_Country_Capital_Target.coverage" NAME="Main_Country_Capital_Target Coverage Results" MODIFIED="1524236236223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Project_From_University$Practise_3.coverage" NAME="Practise_3 Coverage Results" MODIFIED="1526548151433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Word2Vec" />
+    <SUITE FILE_PATH="coverage/DBPedia_Vector_Representation$Main_Country_Practise.coverage" NAME="Main_Country_Practise Coverage Results" MODIFIED="1524138595910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Company_headquarter_filtered.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Data/Company_Headquarter/Company_headquarter_filtered.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Company_Headquarter_Filtered.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Preprocessing/Company_Headquarter_Filtered.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="75" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Company_headquarter_Clean.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Data/Company_Headquarter/Company_headquarter_Clean.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5457">
+              <caret line="321" column="22" lean-forward="false" selection-start-line="321" selection-start-column="22" selection-end-line="321" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main_Capital_Country.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/Relation_Prediction/Main_Capital_Country.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1082">
+              <caret line="8" column="47" lean-forward="false" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Budapest</find>
+      <find>Algiers</find>
+      <find>Luanda</find>
+      <find>Vienna</find>
+      <find>Armenia</find>
+      <find>Ka zakhstan</find>
+      <find>Amman</find>
+      <find>Bishkek</find>
+      <find>City</find>
+      <find>Type</find>
+      <find>zimbuabwe</find>
+      <find>Zambian_kwacha</find>
+      <find>Zambian_kwachaArmenia</find>
+      <find>United_Kingdom</find>
+      <find>Saint_Lucia</find>
+      <find>Afganistan</find>
+      <find>Afghanistan</find>
+      <find>United</find>
+      <find>saint</find>
+      <find>Chad</find>
+      <find>United_</find>
+      <find>(Final_Result.lower() == (Data_Test[1]).lower())(Final_Result.lower() == (Data_Test[1]).lower())(Final_Result.lower() == (Data_Test[1]).lower())</find>
+      <find>Buddle_Findlay Wellington</find>
+      <find>Buddle_Findlay Aucklan</find>
+      <find>Safi_Airways Kabul</find>
+      <find>Safi_Airways Duba</find>
+      <find>Ban</find>
+      <find>Bangladesh</find>
+      <find>Uni</find>
+      <find>Yulchon Seoul</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/venv/SPARQL/Person_Party5.py" />
+        <option value="$PROJECT_DIR$/venv/SPARQL/Person_Party6.py" />
+        <option value="$PROJECT_DIR$/venv/SPARQL/Person_Party7.py" />
+        <option value="$PROJECT_DIR$/venv/SPARQL/Person_Party8.py" />
+        <option value="$PROJECT_DIR$/venv/SPARQL/Person_Party9.py" />
+        <option value="$PROJECT_DIR$/venv/SPARQL/Person_Party_Clean.py" />
+        <option value="$PROJECT_DIR$/venv/Preprocessing/Person_Party_Train_Test.py" />
+        <option value="$PROJECT_DIR$/venv/SPARQL/Spouse.py" />
+        <option value="$PROJECT_DIR$/venv/SPARQL/Spouse_Clean.py" />
+        <option value="$PROJECT_DIR$/venv/Preprocessing/Spouse_Filtered.py" />
+        <option value="$PROJECT_DIR$/venv/Preprocessing/Spouse_Before_Filtered.py" />
+        <option value="$PROJECT_DIR$/venv/Preprocessing/Spouse_Before_Filtered_2.py" />
+        <option value="$PROJECT_DIR$/venv/Preprocessing/Spouse_Train_Test.py" />
+        <option value="$PROJECT_DIR$/venv/SPARQL/Company_Founder.py" />
+        <option value="$PROJECT_DIR$/venv/SPARQL/Company_Founder_Clean.py" />
+        <option value="$PROJECT_DIR$/venv/Preprocessing/Company_Founder_Before_Filtered.py" />
+        <option value="$PROJECT_DIR$/venv/Preprocessing/Company_Founder_Before_Filtered_2.py" />
+        <option value="$PROJECT_DIR$/venv/Preprocessing/Company_Founder_Filtered.py" />
+        <option value="$PROJECT_DIR$/venv/Preprocessing/Company_Train_Test.py" />
+        <option value="$PROJECT_DIR$/venv/Relation_Prediction/Main_Company_Founder.py" />
+        <option value="$PROJECT_DIR$/venv/Function.py" />
+        <option value="$PROJECT_DIR$/venv/Data/Person_Party/Person_Party_Before_Filtered.txt" />
+        <option value="$PROJECT_DIR$/venv/Preprocessing/Person_Party_Before_Filtered_2.py" />
+        <option value="$PROJECT_DIR$/venv/Data/Person_Party/Person_Before_Filtered.txt" />
+        <option value="$PROJECT_DIR$/venv/Accuracy_Visualize/Accuracy.py" />
+        <option value="$PROJECT_DIR$/venv/Data/Person_Party/Person_Before_Filtered1.txt" />
+        <option value="$PROJECT_DIR$/venv/Accuracy_Visualize/Practise_2.py" />
+        <option value="$PROJECT_DIR$/venv/Data/Person_Party/Person_Before_filtered_2.txt" />
+        <option value="$PROJECT_DIR$/venv/Relation_Prediction/Country_1.py" />
+        <option value="$PROJECT_DIR$/venv/Relation_Prediction/Country.py" />
+        <option value="$PROJECT_DIR$/venv/Practise_Function.py" />
+        <option value="$PROJECT_DIR$/venv/Relation_Prediction/Country_2.py" />
+        <option value="$PROJECT_DIR$/venv/Accuracy_Visualize/Practise.py" />
+        <option value="$PROJECT_DIR$/venv/Preprocessing/Person_Party_Before_Filtered.py" />
+        <option value="$PROJECT_DIR$/venv/Preprocessing/Person_Party_Filtered.py" />
+        <option value="$PROJECT_DIR$/venv/Relation_Prediction/Capital.py" />
+        <option value="$PROJECT_DIR$/venv/SPARQL/Company_Headquarter_Clean.py" />
+        <option value="$PROJECT_DIR$/venv/Preprocessing/Company_Headquarter_Filtered.py" />
+        <option value="$PROJECT_DIR$/venv/Preprocessing/Company_headquarter_Train_Test.py" />
+        <option value="$PROJECT_DIR$/venv/Relation_Prediction/Main_Capital_Country.py" />
+        <option value="$PROJECT_DIR$/venv/Relation_Prediction/Main_Company_Headquarter.py" />
+        <option value="$PROJECT_DIR$/venv/Accuracy_Visualize/Accuracy_Spouse.py" />
+        <option value="$PROJECT_DIR$/venv/Relation_Prediction/Main_Currency_Country.py" />
+        <option value="$PROJECT_DIR$/venv/Relation_Prediction/Main_Person_Party.py" />
+        <option value="$PROJECT_DIR$/venv/Accuracy_Visualize/Accuracy_Average.py" />
+        <option value="$PROJECT_DIR$/venv/SPARQL/Company_Headquarter.py" />
+        <option value="$PROJECT_DIR$/venv/Data/Company_Headquarter/Company_headquarter_filtered.txt" />
+        <option value="$PROJECT_DIR$/venv/Data/Company_Headquarter/Company_headquarter_Test.txt" />
+        <option value="$PROJECT_DIR$/venv/Data/Company_Headquarter/Company_headquarter_Train.txt" />
+        <option value="$PROJECT_DIR$/venv/Data/Capital_Country/Capital_Clean.txt" />
+        <option value="$PROJECT_DIR$/venv/Preprocessing/Practise.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DBpedia_Relation_Prediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DBpedia_Relation_Prediction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBpedia_Relation_Prediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DBpedia_Relation_Prediction" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBpedia_Relation_Prediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DBpedia_Relation_Prediction" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Accuracy_Visualize" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBpedia_Relation_Prediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DBpedia_Relation_Prediction" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBpedia_Relation_Prediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DBpedia_Relation_Prediction" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="Capital_Country" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBpedia_Relation_Prediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DBpedia_Relation_Prediction" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="Company_Headquarter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBpedia_Relation_Prediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DBpedia_Relation_Prediction" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="Currency_Country" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBpedia_Relation_Prediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DBpedia_Relation_Prediction" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Preprocessing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBpedia_Relation_Prediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DBpedia_Relation_Prediction" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Relation_Prediction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBpedia_Relation_Prediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DBpedia_Relation_Prediction" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Results" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBpedia_Relation_Prediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DBpedia_Relation_Prediction" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Results" type="462c0819:PsiDirectoryNode" />
+              <item name="Capital_Country" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBpedia_Relation_Prediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DBpedia_Relation_Prediction" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Results" type="462c0819:PsiDirectoryNode" />
+              <item name="Company_Headquarter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBpedia_Relation_Prediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DBpedia_Relation_Prediction" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Results" type="462c0819:PsiDirectoryNode" />
+              <item name="Currency_Country" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBpedia_Relation_Prediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DBpedia_Relation_Prediction" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="SPARQL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBpedia_Relation_Prediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DBpedia_Relation_Prediction" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Visualization" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Practise">
+    <configuration name="Accuracy_Average" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Accuracy_Visualize" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DBPedia Vector Representation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Accuracy_Visualize/Accuracy_Average.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Accuracy_Company_Headquarter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Accuracy_Visualize" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DBPedia Vector Representation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Accuracy_Visualize/Accuracy_Company_Headquarter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Company_Headquarter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/SPARQL" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DBPedia Vector Representation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/SPARQL/Company_Headquarter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Company_Headquarter_Filtered" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Preprocessing" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DBPedia Vector Representation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Preprocessing/Company_Headquarter_Filtered.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Practise" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Preprocessing" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DBPedia Vector Representation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Preprocessing/Practise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.Accuracy_Company_Headquarter" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Accuracy_Average" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Company_Headquarter" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Company_Headquarter_Filtered" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Practise" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Practise" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Company_Headquarter_Filtered" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Accuracy_Company_Headquarter" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Company_Headquarter" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Accuracy_Average" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4ab24a6-fd60-42e4-bf17-7ad898742481" name="Default" comment="" />
+      <created>1519245671914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519245671914</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22519685" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3374817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22519685" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/Preprocessing/Capital_Country_Filtered.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Relation_Prediction/Capital.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Results/Company_Headquarter/Company_headquarter_Final.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="4125" column="13" lean-forward="true" selection-start-line="4125" selection-start-column="13" selection-end-line="4125" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Relation_Prediction/Main_Company_Headquarter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Capital_Country/Capital_Test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-736">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Capital_Country/Capital_Train.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-736">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Capital_Country/Capital.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2589">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Currency_Country/Country_Currency.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2589">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Person_Party/Person_Party.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1476003">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Person_Party/Person_Party_Clean.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1475989">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Person_Party/Person_Party_Before_Filtered.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="86851" column="0" lean-forward="false" selection-start-line="86851" selection-start-column="0" selection-end-line="86851" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Person_Party/Person_Party_Before_filtered_2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1475989">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Person_Party/Person_Party_Train.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="1410" column="30" lean-forward="true" selection-start-line="1410" selection-start-column="30" selection-end-line="1410" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Person_Party/Person_Party_Test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57295">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Person_Party/Person_Party_filtered.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="4827" column="40" lean-forward="true" selection-start-line="4827" selection-start-column="40" selection-end-line="4827" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Results/Currency_Country/Main_Currency_Country_Average_Accuracy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Relation_Prediction/Main_Person_Party.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="99" column="38" lean-forward="true" selection-start-line="99" selection-start-column="38" selection-end-line="99" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Accuracy_Visualize/Accuracy_Currency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Accuracy_Visualize/Accuracy_Person.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Results/Company_Headquarter/Company_headquarter.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Results/Company_Headquarter/Company_headquarter_Accuracy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Accuracy_Visualize/Accuracy_Average.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="61" column="3" lean-forward="false" selection-start-line="61" selection-start-column="3" selection-end-line="61" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Results/Currency_Country/Main_Currency.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-317">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Currency_Country/Currency_Train.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Results/Currency_Country/Main_Currency_Country_Final.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4163">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Currency_Country/Currency_Test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Company_Headquarter/Company_headquarter.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39262">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/SPARQL/Company_Headquarter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Relation_Prediction/Main_Currency_Country.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-701">
+          <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Company_Headquarter/Company_headquarter_Train.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="82" column="14" lean-forward="false" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Company_Headquarter/Company_headquarter_Test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2057">
+          <caret line="121" column="20" lean-forward="false" selection-start-line="121" selection-start-column="20" selection-end-line="121" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Accuracy_Visualize/Accuracy_Company_Headquarter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Results/Company_Headquarter/Company_headquarter_Average_Accuracy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Capital_Country/Capital_Clean.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2907">
+          <caret line="171" column="0" lean-forward="false" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Capital_Country/Capital_filtered.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Results/Currency_Country/Main_Currency_Country.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="80" column="48" lean-forward="false" selection-start-line="80" selection-start-column="45" selection-end-line="80" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Results/Capital_Country/Main_Capital_Country.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="59" column="105" lean-forward="true" selection-start-line="59" selection-start-column="105" selection-end-line="59" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Results/Capital_Country/Main_Capital_Country_Final.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Results/Capital_Country/Main_Capital_Country_Accuracy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1066">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Preprocessing/Company_headquarter_Train_Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Preprocessing/Person_Party_Filtered.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="54" lean-forward="false" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Preprocessing/Country_Currency_Filtered.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Currency_Country/Country_Currency_Clean.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Currency_Country/Country_Currency_filtered.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="54" column="23" lean-forward="true" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Preprocessing/Company_Headquarter_Filtered.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/filtered.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3123">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Preprocessing/Practise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="75" lean-forward="false" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Company_Headquarter/Company_headquarter_filtered.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Data/Company_Headquarter/Company_headquarter_Clean.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5457">
+          <caret line="321" column="22" lean-forward="false" selection-start-line="321" selection-start-column="22" selection-end-line="321" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Relation_Prediction/Main_Capital_Country.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1082">
+          <caret line="8" column="47" lean-forward="false" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
